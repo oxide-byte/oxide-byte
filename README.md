@@ -1,4 +1,5 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxide-byte&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxide-byte&layout=compact)](https://github.com/oxide-byte/)
+
 
 <!--
 **oxide-byte/oxide-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
