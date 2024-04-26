@@ -1,4 +1,6 @@
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxide-byte&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxide-byte&layout=compact)](https://github.com/oxide-byte/)
+-->
 
 
 <!--
