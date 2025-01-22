@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-RustRover-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AWS_Cloud-Services?style=flat&logo=amazonwebservices&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-Cloud-Services?style=flat&logo=amazonwebservices&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Leptos-informational?style=flat&logo=tools&logoColor=white&color=2bbc8a)
 
