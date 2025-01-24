@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/Tauri-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SurrealDB-informational?style=flat&logo=surrealdb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SpinKube-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/oxide-byte/oxide-byte">
