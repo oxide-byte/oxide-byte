@@ -12,7 +12,6 @@
 ![](https://img.shields.io/badge/Axum-informational?style=flat&logo=rust&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/Tauri-informational?style=flat&logo=rust&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=FFC000)
-![](https://img.shields.io/badge/SurrealDB-informational?style=flat&logo=surrealdb&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/SpinKube-informational?style=flat&logo=kubernetes&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=FFC000)
 
