@@ -1,6 +1,7 @@
 
 ## 🔧 Technologies, Tools & Frameworks
 ![](https://img.shields.io/badge/Rust-informational?style=flat&logo=rust&logoColor=white&color=FFC000)
+![](https://img.shields.io/badge/ZED-informational?style=flat&logo=rust&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/RustRover-informational?style=flat&logo=intellij-idea&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/WebAssembly-Services?style=flat&logo=webassembly&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/WASI-Services?style=flat&logo=webassembly&logoColor=white&color=FFC000)
