@@ -17,7 +17,3 @@
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/SpinKube-informational?style=flat&logo=kubernetes&logoColor=white&color=FFC000)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=FFC000)
-
-<a href="https://github.com/oxide-byte/oxide-byte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxide-byte&hide=javascipt,text&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=2" />
-</a>
